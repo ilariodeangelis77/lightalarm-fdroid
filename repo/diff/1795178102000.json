@@ -1,0 +1,209 @@
+{
+  "repo": {
+    "timestamp": 1795199142000
+  },
+  "packages": {
+    "app.lightalarm": {
+      "metadata": {
+        "lastUpdated": 1795199140000,
+        "description": {
+          "en-US": "LightAlarm wakes you with a simulated sunrise. Before the alarm, the screen\nslowly brightens from deep red to sky blue, gentle nature sounds fade in,\nand the flashlight can switch on at the end.\n\n* Light lead time, colors and brightness curve per alarm\n* Built-in waves, rain, wind and chimes (no audio files), or any sound\n* Sun alarms that follow the real sunrise or dawn for any place, computed\n  offline, with a date-by-date table\n* Offline world map, GPS or typed coordinates\n* Light and dark themes\n* No internet permission, no tracking, tiny (about 160 KB)"
+        }
+      },
+      "versions": {
+        "ec5b5f00372c8bae53397bd1facdd736caa2eede0234d3e1ce2c697bd3ebe12e": null,
+        "d6711c56bf21b03c4ea50b9935d3fd7c29fcf2c1359a049929616055cce149f6": null,
+        "88d94d5958833c97a0dc675d0daeeff8ed71c6faae1bbe7089033797fa67e153": null,
+        "2fab30e353dc88c4bd76cc617e1283b244cf9b6663b7bd6a3b27ef4553b103a6": {
+          "added": 1795199140000,
+          "file": {
+            "name": "/app.lightalarm_26.apk",
+            "sha256": "2fab30e353dc88c4bd76cc617e1283b244cf9b6663b7bd6a3b27ef4553b103a6",
+            "size": 163306
+          },
+          "manifest": {
+            "versionName": "1.26",
+            "versionCode": 26,
+            "usesSdk": {
+              "minSdkVersion": 28,
+              "targetSdkVersion": 36
+            },
+            "signer": {
+              "sha256": [
+                "2736dc265e6a6551335fda74e28addd32c7a11f1c6c3523ddfc066469df8339a"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.USE_EXACT_ALARM"
+              },
+              {
+                "name": "android.permission.SCHEDULE_EXACT_ALARM",
+                "maxSdkVersion": 32
+              },
+              {
+                "name": "android.permission.POST_NOTIFICATIONS"
+              },
+              {
+                "name": "android.permission.USE_FULL_SCREEN_INTENT"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE_SYSTEM_EXEMPTED"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE_MEDIA_PLAYBACK"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.VIBRATE"
+              },
+              {
+                "name": "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS"
+              },
+              {
+                "name": "android.permission.ACCESS_COARSE_LOCATION"
+              },
+              {
+                "name": "android.permission.ACCESS_FINE_LOCATION"
+              }
+            ]
+          }
+        },
+        "970f7fd70cc7481c83711e17abc4b499c5b9975f71a7ce9bfb629cfc4546bd29": {
+          "added": 1795195886000,
+          "file": {
+            "name": "/app.lightalarm_25.apk",
+            "sha256": "970f7fd70cc7481c83711e17abc4b499c5b9975f71a7ce9bfb629cfc4546bd29",
+            "size": 163306
+          },
+          "manifest": {
+            "versionName": "1.25",
+            "versionCode": 25,
+            "usesSdk": {
+              "minSdkVersion": 28,
+              "targetSdkVersion": 36
+            },
+            "signer": {
+              "sha256": [
+                "2736dc265e6a6551335fda74e28addd32c7a11f1c6c3523ddfc066469df8339a"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.USE_EXACT_ALARM"
+              },
+              {
+                "name": "android.permission.SCHEDULE_EXACT_ALARM",
+                "maxSdkVersion": 32
+              },
+              {
+                "name": "android.permission.POST_NOTIFICATIONS"
+              },
+              {
+                "name": "android.permission.USE_FULL_SCREEN_INTENT"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE_SYSTEM_EXEMPTED"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE_MEDIA_PLAYBACK"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.VIBRATE"
+              },
+              {
+                "name": "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS"
+              },
+              {
+                "name": "android.permission.ACCESS_COARSE_LOCATION"
+              },
+              {
+                "name": "android.permission.ACCESS_FINE_LOCATION"
+              }
+            ]
+          }
+        },
+        "a5d82dbcb4e105d3146499fc7c4ea986862c65be35bb755ae0df8848519ec123": {
+          "added": 1795194653000,
+          "file": {
+            "name": "/app.lightalarm_24.apk",
+            "sha256": "a5d82dbcb4e105d3146499fc7c4ea986862c65be35bb755ae0df8848519ec123",
+            "size": 163306
+          },
+          "manifest": {
+            "versionName": "1.24",
+            "versionCode": 24,
+            "usesSdk": {
+              "minSdkVersion": 28,
+              "targetSdkVersion": 36
+            },
+            "signer": {
+              "sha256": [
+                "2736dc265e6a6551335fda74e28addd32c7a11f1c6c3523ddfc066469df8339a"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.USE_EXACT_ALARM"
+              },
+              {
+                "name": "android.permission.SCHEDULE_EXACT_ALARM",
+                "maxSdkVersion": 32
+              },
+              {
+                "name": "android.permission.POST_NOTIFICATIONS"
+              },
+              {
+                "name": "android.permission.USE_FULL_SCREEN_INTENT"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE_SYSTEM_EXEMPTED"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE_MEDIA_PLAYBACK"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.VIBRATE"
+              },
+              {
+                "name": "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS"
+              },
+              {
+                "name": "android.permission.ACCESS_COARSE_LOCATION"
+              },
+              {
+                "name": "android.permission.ACCESS_FINE_LOCATION"
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}

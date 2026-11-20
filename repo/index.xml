@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<fdroid>
+	<repo icon="icon.png" name="LightAlarm" pubkey="308204ec308202d4a003020102020900e459c052114ca31a300d06092a864886f70d01010c050030233121301f060355040313184c69676874416c61726d20706572736f6e616c207265706f3020170d3236313132303132313530365a180f32313236313032373132313530365a30233121301f060355040313184c69676874416c61726d20706572736f6e616c207265706f30820222300d06092a864886f70d01010105000382020f003082020a02820201008f2dda72d89ac585ef1cef8c8f0ec22bcef7950bfc1cde85b8a94c47c5032d52464be78c6e6c602e24e693619961c729b215764e596e77b7fb82fd15f83de8fbb016ff88308afddaf5cbd094533cc752e69235f6d9c4dfe793c8108a983b6991d2fc3c8c1548ccb04155dabb2eea59e93acd56049dd619db9e97f089cfbe9ce9708a09417d9b8ce20ce139b6be144b3c5261ac21200827c24177d7b0cd9a310446a11910e2e691e7a4be8631f0537eb5893eba3c33ba2d5d000a2d4ed9ee90d09cc8ed032605e4110bfe51abed0d422bd90ef829138a4846475589cd7820c828eee917c2812ee71d4f069d2aa97b148398573970b337a92b2affbab55a513810f8770dead37cfddb8eb637f054929b6f781eb4946d1999e366960474eb3e7e340aca8150b23e44d763ae62bb23751b2a8aca435c8e68456e54ecb985127b040e3ff113cffa14b3ef32d6b060592b4ec666af74ef6084db57dd2d1d80de42a104fff096681b3ad7920e5cd7e8c92226ce08c0676101c2a7e38b46b674402368896e15a08369a7204b038e6e6037a765bc5b027cb31622480e304e5b92fff7d8a3a960b0648547b93f39d381b8df6970991e53087b9f5beefcdd8e220d1751f8ca0bafdce6ccc6a710149cde517ba4fbefb9db6cfa2e553809c20b8af7a1c2adfac4325dbdc6d11c1e3b28b895212b5b90310dd2952f24a868c62b8aaf825656e70203010001a321301f301d0603551d0e041604146f98787a5c9353322d213a7469f351483409bf0b300d06092a864886f70d01010c050003820201006b46c169529e6dda28d0702dc7d263a6064d86ad4591d77baccd4ff4105b43501583fde5c91fbc13cfdeb82b60e7ec73518071c42e7f6fb311fcf76da1271bbb59cf1e2e9c7a64d0225e7d6fed3f4d048204d6d6deb70a2f8c77e9d973026b49df080bbb880a02bbdf524464f328620801dcb7a8a8b7ffbe4543155088cf6c7564cfe93d59d4f2e8819e79f32bd21815f3250bd2c304e71f551b54e10fec604177a10e97f21d942db21a0239ac65863b649df9577ab04e58d8dff6271c6666c6f288e56fbbbf80f673a29437e65dd93115c8e6b06f4245594fb01685e5d4d9944dbc13ed8648e32394ffd18dea032b135179ad56b6d4787c3332fc665f93f5b8dae268874a89011e80ab02a5c413390d2fe75511abcd6e5e358d726746db9b414d6890621214f1db7ac6e40f44bf3eddff6e92be6ab362cbc737fc27a90022814319cf29ce60964f59b2077eeb81b85409836765f5ee92c8a3cedfa8be548f3ba100a9b03e508a6242c60d24c21aeb473f97249d143bb7cb21930704abc500d25df4dd1db9f8d24996cf482254d1d0a36393de468ff675149a768f244447ab397f02905b5e23c5fb54a2e839014941b230b634ee55031916d7951feb8870bbb855da2c4c3a1c162cd9cdd31c0a9158658bbd0914b371cf7f24e0687900ab918068364fde102b74708830a24aa7e1ccf7c1a6eed4ebe0bebcb31f90bf140fdccb" timestamp="1795199142" url="https://ilariodeangelis77.github.io/lightalarm-fdroid/repo" version="20002">
+		<description>Personal repository for the LightAlarm sunrise alarm.</description>
+	</repo>
+	<application id="app.lightalarm">
+		<id>app.lightalarm</id>
+		<added>2026-11-20</added>
+		<lastupdated>2026-11-20</lastupdated>
+		<name>LightAlarm</name>
+		<summary>Sunrise alarm with dawn light, nature sounds and sun-synced alarms</summary>
+		<desc>LightAlarm wakes you with a simulated sunrise. Before the alarm, the screen
+slowly brightens from deep red to sky blue, gentle nature sounds fade in,
+and the flashlight can switch on at the end.
+
+* Light lead time, colors and brightness curve per alarm
+* Built-in waves, rain, wind and chimes (no audio files), or any sound
+* Sun alarms that follow the real sunrise or dawn for any place, computed
+  offline, with a date-by-date table
+* Offline world map, GPS or typed coordinates
+* Light and dark themes
+* No internet permission, no tracking, tiny (about 160 KB)</desc>
+		<license>Unknown</license>
+		<categories>Clock,Science &amp; Education</categories>
+		<category>Clock</category>
+		<web></web>
+		<source></source>
+		<tracker></tracker>
+		<author>LightAlarm</author>
+		<marketversion></marketversion>
+		<marketvercode>26</marketvercode>
+		<package>
+			<version>1.26</version>
+			<versioncode>26</versioncode>
+			<apkname>app.lightalarm_26.apk</apkname>
+			<hash type="sha256">2fab30e353dc88c4bd76cc617e1283b244cf9b6663b7bd6a3b27ef4553b103a6</hash>
+			<size>163306</size>
+			<sdkver>28</sdkver>
+			<targetSdkVersion>36</targetSdkVersion>
+			<added>2026-11-20</added>
+			<sig>e94922e0dcb4a547f07cb3656c920c7f</sig>
+			<permissions>ACCESS_COARSE_LOCATION,ACCESS_FINE_LOCATION,FOREGROUND_SERVICE,FOREGROUND_SERVICE_MEDIA_PLAYBACK,FOREGROUND_SERVICE_SYSTEM_EXEMPTED,POST_NOTIFICATIONS,RECEIVE_BOOT_COMPLETED,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,SCHEDULE_EXACT_ALARM,USE_EXACT_ALARM,USE_FULL_SCREEN_INTENT,VIBRATE,WAKE_LOCK</permissions>
+			<uses-permission maxSdkVersion="32" name="android.permission.SCHEDULE_EXACT_ALARM"/>
+		</package>
+		<package>
+			<version>1.25</version>
+			<versioncode>25</versioncode>
+			<apkname>app.lightalarm_25.apk</apkname>
+			<hash type="sha256">970f7fd70cc7481c83711e17abc4b499c5b9975f71a7ce9bfb629cfc4546bd29</hash>
+			<size>163306</size>
+			<sdkver>28</sdkver>
+			<targetSdkVersion>36</targetSdkVersion>
+			<added>2026-11-20</added>
+			<sig>e94922e0dcb4a547f07cb3656c920c7f</sig>
+			<permissions>ACCESS_COARSE_LOCATION,ACCESS_FINE_LOCATION,FOREGROUND_SERVICE,FOREGROUND_SERVICE_MEDIA_PLAYBACK,FOREGROUND_SERVICE_SYSTEM_EXEMPTED,POST_NOTIFICATIONS,RECEIVE_BOOT_COMPLETED,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,SCHEDULE_EXACT_ALARM,USE_EXACT_ALARM,USE_FULL_SCREEN_INTENT,VIBRATE,WAKE_LOCK</permissions>
+			<uses-permission maxSdkVersion="32" name="android.permission.SCHEDULE_EXACT_ALARM"/>
+		</package>
+		<package>
+			<version>1.24</version>
+			<versioncode>24</versioncode>
+			<apkname>app.lightalarm_24.apk</apkname>
+			<hash type="sha256">a5d82dbcb4e105d3146499fc7c4ea986862c65be35bb755ae0df8848519ec123</hash>
+			<size>163306</size>
+			<sdkver>28</sdkver>
+			<targetSdkVersion>36</targetSdkVersion>
+			<added>2026-11-20</added>
+			<sig>e94922e0dcb4a547f07cb3656c920c7f</sig>
+			<permissions>ACCESS_COARSE_LOCATION,ACCESS_FINE_LOCATION,FOREGROUND_SERVICE,FOREGROUND_SERVICE_MEDIA_PLAYBACK,FOREGROUND_SERVICE_SYSTEM_EXEMPTED,POST_NOTIFICATIONS,RECEIVE_BOOT_COMPLETED,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,SCHEDULE_EXACT_ALARM,USE_EXACT_ALARM,USE_FULL_SCREEN_INTENT,VIBRATE,WAKE_LOCK</permissions>
+			<uses-permission maxSdkVersion="32" name="android.permission.SCHEDULE_EXACT_ALARM"/>
+		</package>
+	</application>
+</fdroid>
